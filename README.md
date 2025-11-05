@@ -8,7 +8,7 @@
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ## Descrição
-Este projeto utiliza o Vagrant para criar máquinas virtuais (VMs) com Ubuntu, configuradas para rodar o Girus. O projeto suporta dois provedores: Hyper-V e VirtualBox.
+Este projeto utiliza o Vagrant para criar máquinas virtuais (VMs) com Ubuntu, configuradas para rodar o [[Girus](https://github.com/badtuxx/girus-cli/)]. O projeto suporta dois provedores: Hyper-V e VirtualBox.
 
 ## Principais Conceitos
 * **Vagrant**: Ferramenta para criar e gerenciar ambientes de desenvolvimento virtualizados.
