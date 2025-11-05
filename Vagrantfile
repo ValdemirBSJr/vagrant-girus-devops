@@ -1,3 +1,7 @@
+#####################
+# CUIDADO, HYPER-V! #
+#####################
+
 Vagrant.configure("2") do |config|
   # Usando a box "generic/ubuntu2204" que tem suporte a Hyper-V
   config.vm.box = "generic/ubuntu2204"
@@ -76,4 +80,5 @@ Vagrant.configure("2") do |config|
 	
 	echo " --- CONCLUÍDO! ---"
   SHELL
+
 end
